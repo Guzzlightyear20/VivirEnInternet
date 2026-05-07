@@ -1,6 +1,6 @@
 # Vivir en Internet 🌐
 
-![Logo de Semillero Digital](logo-semillero.png)
+![Logo de Semillero Digital](LOGO-SEMILLERO.png)
 
 **Vivir en Internet** es una experiencia web interactiva desarrollada como parte del programa en **Semillero Digital**. El proyecto busca concientizar a los usuarios sobre la alfabetización digital, el pensamiento crítico y el bienestar en el entorno online a través de una serie de aplicaciones y juegos integrados en una única plataforma.
 
